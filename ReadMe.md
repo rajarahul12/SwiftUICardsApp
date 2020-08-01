@@ -3,5 +3,4 @@ This app shows a list of courses available in the form of cads
 
 ## SAMPLE IMAGES
 
-![](./screenshots/1.png)
-![](./screenshots/2.png)
+<img src="https://github.com/rajarahul12/SwiftUICardsApp/blob/master/screenshots/1.png" width="100" height="100"/>
